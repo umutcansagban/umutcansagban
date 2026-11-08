@@ -16,18 +16,18 @@
 
 - 🎓 Software Engineering student at **Afyon Kocatepe University**.
 - 💻 Interested in **backend development**, software architecture, and building useful applications.
-- 🌱 Currently improving my skills in **C#, .NET, Python, and database technologies**.
+- 🌱 Currently improving my skills in **C, C++, C#, Python, .NET, and database technologies**.
 - 🧩 I enjoy learning new technologies and turning ideas into practical projects.
 - 🤝 Open to collaboration, learning opportunities, and internship experiences.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Skills
 
 ### 💻 Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cs,py,c++" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,html,css" />
 </p>
 
 ### ⚙️ Backend & Frameworks
@@ -42,10 +42,18 @@
   <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
 
-### 🔧 Tools
+### 🐳 DevOps & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
+</p>
+
+### 🎨 Design & Engineering Software
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="40" />
+  <img src="https://cdn.simpleicons.org/autodesk/0696D7" height="40" />
+  <img src="https://img.shields.io/badge/SolidWorks-FF0000?style=flat&logo=dassaultsystemes&logoColor=white" height="40" />
 </p>
 
 ---
@@ -53,11 +61,13 @@
 ## 🚀 Featured Projects
 
 ### 🚗 RentaCar
+
 A car rental application developed with C# and database technologies.
 
 [View Project](https://github.com/umutcansagban/RentaCar)
 
 ### 👥 Personnel-Tracking-System
+
 A personnel tracking application focused on object-oriented programming concepts.
 
 [View Project](https://github.com/umutcansagban/Personnel-Tracking-System)
@@ -85,6 +95,9 @@ A personnel tracking application focused on object-oriented programming concepts
   </a>
   <a href="https://www.linkedin.com/in/umut-can-sagban/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+  </a>
+  <a href="mailto:umutcan.sgbn28">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" />
   </a>
 </p>
 
