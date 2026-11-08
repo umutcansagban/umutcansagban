@@ -27,7 +27,7 @@
 ### 💻 Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cs,py" />
+  <img src="https://skillicons.dev/icons?i=c,cs,py,c++" />
 </p>
 
 ### ⚙️ Backend & Frameworks
