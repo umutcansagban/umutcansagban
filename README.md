@@ -51,7 +51,7 @@
 ### 🎨 Design & Engineering Software
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="40" />
+  <img src="https://skillicons.dev/icons?i=ps" height="40" />
   <img src="https://cdn.simpleicons.org/autodesk/0696D7" height="40" />
   <img src="https://img.shields.io/badge/SolidWorks-FF0000?style=flat&logo=dassaultsystemes&logoColor=white" height="40" />
 </p>
